@@ -1,0 +1,13 @@
+{
+      "name": "hotel-website",
+      "version": "1.0.0",
+      "description": "Single-page hotel presentation website",
+      "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+      },
+      "devDependencies": {
+        "vite": "^4.4.9"
+      }
+    }
